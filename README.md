@@ -6,4 +6,5 @@
 
 This year my resolution is that I will implement 52 machine learning papers.
 
-- [x] 
+- [1. ](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.node_embedding.neighbourhood.netmf.NetMF)
+- [2. Hunt For The Unique, Stable, Sparse And Fast Feature Learning On Graphs]()
