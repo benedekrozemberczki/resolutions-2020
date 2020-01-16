@@ -8,4 +8,4 @@ This year my resolution is that I will implement 52 machine learning papers.
 
 - [1. Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and Node2Vec](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.node_embedding.neighbourhood.netmf.NetMF)
 - [2. Hunt For The Unique, Stable, Sparse And Fast Feature Learning On Graphs]()
-- [3. GL2Vec: Graph Embedding Enriched by Line Graphs with Edge Features]()
+- [3. GL2Vec: Graph Embedding Enriched by Line Graphs with Edge Features](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.gl2vec.GL2Ve)
