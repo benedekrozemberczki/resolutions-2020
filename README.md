@@ -10,4 +10,5 @@ This year my resolution is that I will implement 52 machine learning papers.
 - [2. Hunt For The Unique, Stable, Sparse And Fast Feature Learning On Graphs](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.fgsd.FGSD)
 - [3. GL2Vec: Graph Embedding Enriched by Line Graphs with Edge Features](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.gl2vec.GL2Vec)
 - [4. A Simple Baseline Algorithm for Graph Classification](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.sf.SF)
+- [5.Using Laplacian Spectrum as Graph Feature Representation](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.sf.SF)
 
