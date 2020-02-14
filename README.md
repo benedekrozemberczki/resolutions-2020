@@ -11,4 +11,6 @@ This year my resolution is that I will implement 52 machine learning papers.
 - [3. GL2Vec: Graph Embedding Enriched by Line Graphs with Edge Features](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.gl2vec.GL2Vec)
 - [4. A Simple Baseline Algorithm for Graph Classification](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.sf.SF)
 - [5. Using Laplacian Spectrum as Graph Feature Representation](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.sf.SF)
+- [6. Symmetric Nonnegative Matrix Factorization for Graph Clustering](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.community_detection.overlapping.symmnmf.SymmNMF)
+
 
