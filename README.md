@@ -12,6 +12,6 @@ This year my resolution is that I will implement 52 machine learning papers.
 - [4. A Simple Baseline Algorithm for Graph Classification](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.sf.SF)
 - [5. Using Laplacian Spectrum as Graph Feature Representation](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.sf.SF)
 - [6. Symmetric Nonnegative Matrix Factorization for Graph Clustering](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.community_detection.overlapping.symmnmf.SymmNMF)
-- [7 Laplacian Eigenmaps for Dimensionality Reduction and Data Representation](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.node_embedding.neighbourhood.laplacianeigenmaps.LaplacianEigenmaps)
-
+- [7. Laplacian Eigenmaps for Dimensionality Reduction and Data Representation](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.node_embedding.neighbourhood.laplacianeigenmaps.LaplacianEigenmaps)
+- [8. High Quality, Scalable and Parallel Community Detection for Large Real Graphs](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.community_detection.non_overlapping.scd.SCD)
 
