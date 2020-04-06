@@ -17,5 +17,5 @@ This year my resolution is that I will implement 52 machine learning papers.
 - [9. NetLSD: Hearing the Shape of a Graph](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.netlsd.NetLSD)
 - [10. Asymmetric Transitivity Preserving Graph Embedding](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.node_embedding.neighbourhood.hope.HOPE)
 - [11. GEMSEC: Graph Embedding with Self Clustering](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.community_detection.non_overlapping.gemsec.GEMSEC)
-- [12. Geometric Scattering for Graph Data Analysis](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.node_embedding.neighbourhood.hope.HOPE)
+- [12. Geometric Scattering for Graph Data Analysis](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.geoscattering.GeoScattering)
 
