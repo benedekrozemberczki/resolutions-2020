@@ -22,6 +22,8 @@ This year my resolution is that I will implement at least 52 data mining papers.
 - [14. Attributed Social Network Embedding](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.node_embedding.attributed.asne)
 - [15. Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.feathergraph.FeatherGraph)
 - [16. Predicting Path Failure In Time-Evolving Graphs]()
+- [17. Structured Sequence Modeling with Graph Convolutional Recurrent Networks]()
+- [18. ]()
 
 
 
