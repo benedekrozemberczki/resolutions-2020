@@ -19,4 +19,6 @@ This year my resolution is that I will implement 52 machine learning papers.
 - [11. GEMSEC: Graph Embedding with Self Clustering](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.community_detection.non_overlapping.gemsec.GEMSEC)
 - [12. Geometric Scattering for Graph Data Analysis](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.geoscattering.GeoScattering)
 - [13. Invariant Embedding for Graph Classification](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.ige.IGE)
+- [14. Attributed Social Network Embedding](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.node_embedding.attributed.asne)
+
 
