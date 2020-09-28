@@ -20,7 +20,7 @@ This year my resolution is that I will implement 52 machine learning papers.
 - [12. Geometric Scattering for Graph Data Analysis](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.geoscattering.GeoScattering)
 - [13. Invariant Embedding for Graph Classification](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.ige.IGE)
 - [14. Attributed Social Network Embedding](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.node_embedding.attributed.asne)
-- [15. Attributed Social Network Embedding](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.feathergraph.FeatherGraph)
+- [15. Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.feathergraph.FeatherGraph)
 
 
 
