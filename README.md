@@ -25,6 +25,4 @@ This year my resolution is that I will implement at least 52 data mining papers.
 - [17. Structured Sequence Modeling with Graph Convolutional Recurrent Networks]()
 - [18. GC-LSTM: Graph Convolution Embedded LSTM for Dynamic Link Prediction]()
 - [19. EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graph]()
-
-
-
+- [20. Predictive Temporal Embedding of Dynamic Graphs]()
