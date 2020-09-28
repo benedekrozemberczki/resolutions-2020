@@ -23,6 +23,6 @@ This year my resolution is that I will implement at least 52 data mining papers.
 - [15. Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.feathergraph.FeatherGraph)
 - [16. Predicting Path Failure In Time-Evolving Graphs]()
 - [17. Structured Sequence Modeling with Graph Convolutional Recurrent Networks](https://pytorch-geometric-temporal.readthedocs.io/en/latest/modules/root.html#torch_geometric_temporal.nn.recurrent.gconv_gru.GConvGRU)
-- [18. GC-LSTM: Graph Convolution Embedded LSTM for Dynamic Link Prediction]()
+- [18. GC-LSTM: Graph Convolution Embedded LSTM for Dynamic Link Prediction](https://pytorch-geometric-temporal.readthedocs.io/en/latest/modules/root.html#torch_geometric_temporal.nn.recurrent.gc_lstm.GCLSTM)
 - [19. EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graph]()
 - [20. Predictive Temporal Embedding of Dynamic Graphs]()
