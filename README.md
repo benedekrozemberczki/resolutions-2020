@@ -4,7 +4,7 @@
 
 ## Implementing papers 👨🏻‍💻 ![](https://img.shields.io/badge/progress-23.07%25-green.svg) ![GitHub stars](https://img.shields.io/github/stars/benedekrozemberczki/resolutions-2020.svg?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/benedekrozemberczki/resolutions-2020.svg?color=blue&style=plastic) ![License](https://img.shields.io/github/license/benedekrozemberczki/resolutions-2020.svg?color=blue&style=plastic)
 
-This year my resolution is that I will implement 52 machine learning papers.
+This year my resolution is that I will implement at least 52 data mining papers.
 
 - [1. Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and Node2Vec](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.node_embedding.neighbourhood.netmf.NetMF)
 - [2. Hunt For The Unique, Stable, Sparse And Fast Feature Learning On Graphs](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.graph_embedding.fgsd.FGSD)
