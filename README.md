@@ -43,4 +43,4 @@ This year my resolution is that I will implement at least 52 data mining papers.
 - [35. Network Sampling: From Static to Streaming Graphs]()
 - [36. Reducing Large Internet Topologies for Faster Simulations]()
 - [37. SubNets of Scale-Free Networks Are Not Scale-Free: Sampling Properties of Networks]()
-- [38. Search In Power-Law Networks]()
+- [38. Search In Power-Law Networks](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.node_sampling.degreebasedsampler.DegreeBasedSampler)
