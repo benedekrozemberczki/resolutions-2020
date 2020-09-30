@@ -29,7 +29,7 @@ This year my resolution is that I will implement at least 52 data mining papers.
 - [21. Walking with Perception: Efficient Random Walk Sampling via Common Neighbor Awareness]()
 - [22. Sampling Social Networks Using Shortest Paths]()
 - [23. Leveraging History for Faster Sampling of Online Social Networks]()
-- [24. On Random Walk Based Graph Sampling]()
+- [24. On Random Walk Based Graph Sampling](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.exploration_sampling.metropolishastingsrandomwalksampler.MetropolisHastingsRandomWalkSampler)
 - [25. Metric Convergence in Social Network Sampling](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.exploration_sampling.depthfirstsearchsampler.DepthFirstSearchSampler)
 - [26. Beyond Random Walk and Metropolis-Hastings Samplers: Why You Should Not Backtrack for Unbiased Graph Sampling](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.exploration_sampling.nonbacktrackingrandomwalksampler.NonBackTrackingRandomWalkSampler)
 - [27. Sampling Community Structure](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.exploration_sampling.communitystructureexpansionsampler.CommunityStructureExpansionSampler)
