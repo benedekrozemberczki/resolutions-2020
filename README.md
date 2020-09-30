@@ -41,6 +41,6 @@ This year my resolution is that I will implement at least 52 data mining papers.
 - [33. Generating Random Spanning Trees More Quickly Than the Cover Time]()
 - [34. Snowball Sampling]()
 - [35. Network Sampling: From Static to Streaming Graphs]()
-- [36. Reducing Large Internet Topologies for Faster Simulations]()
+- [36. Reducing Large Internet Topologies for Faster Simulations](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.edge_sampling.randomedgesampler.RandomEdgeSampler)
 - [37. SubNets of Scale-Free Networks Are Not Scale-Free: Sampling Properties of Networks](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.node_sampling.randomnodesampler.RandomNodeSampler)
 - [38. Search In Power-Law Networks](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.node_sampling.degreebasedsampler.DegreeBasedSampler)
