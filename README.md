@@ -36,7 +36,7 @@ This year my resolution is that I will implement at least 52 data mining papers.
 - [28. Estimating and Sampling Graphs with Multidimensional Random Walks]()
 - [29. Walking in Facebook: A Case Study of Unbiased Sampling of OSNs]()
 - [30. Metropolis Algorithms for Representative Subgraph Sampling]()
-- [31. Sampling From Large Graphs]()
+- [31. Sampling From Large Graphs](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.node_sampling.pagerankbasedsampler.PageRankBasedSampler)
 - [32. Graphs over Time: Densification Laws, Shrinking Diameters and Possible Explanations]()
 - [33. Generating Random Spanning Trees More Quickly Than the Cover Time](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.exploration_sampling.looperasedrandomwalksampler.LoopErasedRandomWalkSampler)
 - [34. Snowball Sampling](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.exploration_sampling.snowballsampler.SnowBallSampler)
