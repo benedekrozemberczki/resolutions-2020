@@ -32,7 +32,7 @@ This year my resolution is that I will implement at least 52 data mining papers.
 - [24. On Random Walk Based Graph Sampling]()
 - [25. Metric Convergence in Social Network Sampling]()
 - [26. Beyond Random Walk and Metropolis-Hastings Samplers: Why You Should Not Backtrack for Unbiased Graph Sampling]()
-- [27. Sampling Community Structure]()
+- [27. Sampling Community Structure](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.exploration_sampling.communitystructureexpansionsampler.CommunityStructureExpansionSampler)
 - [28. Estimating and Sampling Graphs with Multidimensional Random Walks](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.exploration_sampling.randomwalkwithjumpsampler.RandomWalkWithJumpSampler)
 - [29. Walking in Facebook: A Case Study of Unbiased Sampling of OSNs](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.exploration_sampling.randomwalksampler.RandomWalkSampler)
 - [30. Metropolis Algorithms for Representative Subgraph Sampling](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.exploration_sampling.metropolishastingsrandomwalksampler.MetropolisHastingsRandomWalkSampler)
