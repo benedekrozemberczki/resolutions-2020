@@ -44,4 +44,4 @@ This year my resolution is that I will implement at least 52 data mining papers.
 - [36. Reducing Large Internet Topologies for Faster Simulations](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.edge_sampling.randomedgesampler.RandomEdgeSampler)
 - [37. SubNets of Scale-Free Networks Are Not Scale-Free: Sampling Properties of Networks](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.node_sampling.randomnodesampler.RandomNodeSampler)
 - [38. Search In Power-Law Networks](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.node_sampling.degreebasedsampler.DegreeBasedSampler)
-- [39. GLEE: Geometric Laplacian Eigenmap Embeddings](https://little-ball-of-fur.readthedocs.io/en/latest/modules/root.html#littleballoffur.node_sampling.degreebasedsampler.DegreeBasedSampler)
+- [39. GLEE: Geometric Laplacian Eigenmap Embeddings](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.node_embedding.neighbourhood.geometriclaplacianeigenmaps.GLEE)
